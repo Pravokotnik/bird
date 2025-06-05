@@ -1,0 +1,11 @@
+cub_subset\images\002.Laysan_Albatross\Laysan_Albatross_0021_737.jpg
+cub_subset\images\002.Laysan_Albatross\Laysan_Albatross_0028_643.jpg
+cub_subset\images\002.Laysan_Albatross\Laysan_Albatross_0033_658.jpg
+cub_subset\images\002.Laysan_Albatross\Laysan_Albatross_0058_637.jpg
+cub_subset\images\002.Laysan_Albatross\Laysan_Albatross_0060_777.jpg
+cub_subset\images\002.Laysan_Albatross\Laysan_Albatross_0068_726.jpg
+cub_subset\images\012.Yellow_headed_Blackbird\Yellow_Headed_Blackbird_0012_8443.jpg
+cub_subset\images\012.Yellow_headed_Blackbird\Yellow_Headed_Blackbird_0035_8447.jpg
+cub_subset\images\012.Yellow_headed_Blackbird\Yellow_Headed_Blackbird_0056_8455.jpg
+cub_subset\images\012.Yellow_headed_Blackbird\Yellow_Headed_Blackbird_0059_8079.jpg
+cub_subset\images\012.Yellow_headed_Blackbird\Yellow_Headed_Blackbird_0073_8442.jpg

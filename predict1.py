@@ -4,6 +4,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torchvision import models, transforms as T
 from PIL import Image, ImageDraw
+from ultralytics import YOLO
 
 # 1) Configuration
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -40,8 +41,8 @@ model_resnet.eval()
 # :contentReference[oaicite:12]{index=12}
 
 # 4) Load YOLOv5 (COCO pretrained)
-import yolov5
-model_yolo = yolov5.load("yolov5s.pt", device=device)
+
+model_yolo = YOLO("yolov5s.pt")
 # :contentReference[oaicite:13]{index=13}
 
 # 5) Set YOLO thresholds

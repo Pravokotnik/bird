@@ -1,0 +1,5 @@
+train: cub_subset\train.txt
+val:   cub_subset\val.txt
+
+nc: 1
+names: ['bird']
